@@ -55,7 +55,7 @@ function App() {
       {/* RIGHT SIDE: Profile Image */}
       <div className="image-sidebar">
         <img 
-          src="/girl.jpg" 
+          src="girl.jpg" 
           alt="Mahek Rasool Memon" 
           className="cv-image" 
         />

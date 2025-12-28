@@ -23,12 +23,12 @@
 }
 
 .cv-image {
-  width: 280px; /* Adjust size to match your original look */
+  width: 280px; 
   height: auto;
   border-radius: 4px;
 }
 
-/* Formatting to match your screenshot exactly */
+
 .name-title {
   font-size: 32px;
   margin-bottom: 5px;
